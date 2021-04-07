@@ -25,7 +25,7 @@ trabalhar.
 
 ## Criando um usuário
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/login.gif" >
 </p>
 
