@@ -21,6 +21,25 @@ seja a mais simples possível aos mesmos, sendo que para cada tipo de usuário
 (cozinha/salão) seja disponibilizada somente a tela necessária para o mesmo poder 
 trabalhar.
 
+## Criando um usuário
+
+<p align="center">
+<img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/login.gif" >
+</p>
+
+## Área do garçom
+
+<p align="center">
+<img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/garcomhall.gif" >
+</p>
+
+## Área doa cozinha
+
+<p align="center">
+<img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/kitchen.gif" >
+</p>
+
+
 ## 2.Protótipo
 O tema da hamburgueria foi inspirado no filme rataoille, que é um filme sobre um ratinho vivendo em Paris que sonha em se tornar um chef de cozinha. Fizemos um prototipo pensando nas cores desta temática, com uma interface simples para que os usuários possam facilmente entender sua usabilidade. 
 
