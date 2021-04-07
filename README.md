@@ -21,7 +21,7 @@ seja a mais simples possível aos mesmos, sendo que para cada tipo de usuário
 (cozinha/salão) seja disponibilizada somente a tela necessária para o mesmo poder 
 trabalhar.
 
-## Reprodução:
+# Reprodução:
 
 ## Criando um usuário
 
