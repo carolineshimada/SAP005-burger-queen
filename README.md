@@ -45,18 +45,24 @@ trabalhar.
 ## 2.Protótipo
 O tema da hamburgueria foi inspirado no filme rataoille, que é um filme sobre um ratinho vivendo em Paris que sonha em se tornar um chef de cozinha. Fizemos um prototipo pensando nas cores desta temática, com uma interface simples para que os usuários possam facilmente entender sua usabilidade. 
 
+
 ![Alt Text](https://media.giphy.com/media/wNDa1OZtvl6Fi/giphy.gif)
+
 
 * Protótipo 1 
 Protótipo inicial desenvolvido antes do teste de usabilidade com usuários.
 
 ![imagem](Slide1.JPG)
+
 ![imagem](Slide2.JPG)
+
 ![imagem](Slide3.JPG)
+
 ![imagem](Slide4.JPG)
 
 * Protótipo 2
 Protótipo incorporando o feedback dos usuários,. 
+
 ![imagem](Prototipo2.png)
 ![imagem](Prototipo2-1.png)
 
