@@ -21,6 +21,8 @@ seja a mais simples possível aos mesmos, sendo que para cada tipo de usuário
 (cozinha/salão) seja disponibilizada somente a tela necessária para o mesmo poder 
 trabalhar.
 
+## Reprodução:
+
 ## Criando um usuário
 
 <p align="center">
@@ -33,7 +35,7 @@ trabalhar.
 <img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/garcomhall.gif" >
 </p>
 
-## Área doa cozinha
+## Área da cozinha
 
 <p align="center">
 <img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/kitchen.gif" >
