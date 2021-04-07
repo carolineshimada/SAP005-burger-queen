@@ -73,9 +73,9 @@ Eu como funcionário do restaurante quero entrar na plataforma e ver apenas a te
 
 **Criar perfil*
 
-- [ ] Poder realizar cadastro com e-mail, senha e função.
-- [ ] Poder realizar login com e-mail e senha.
-- [ ] Redirecionar para a tela correta.
+- [x] Poder realizar cadastro com e-mail, senha e função.
+- [x] Poder realizar login com e-mail e senha.
+- [x] Redirecionar para a tela correta.
 
 ![paginaweb](historia 1.gif) 
 
@@ -86,12 +86,12 @@ produto e poder enviar o pedido para a cozinha para ser preparado.
 
 **Anotar pedidos*
 
-- [ ] Digitar o nome do cliente e mesa.
-- [ ] Filtrar _menu_ para _café da manhã_ e _almoço/jantar_.
-- [ ] Adicionar item ao pedido.
-- [ ] Excluir item do pedido.
-- [ ] Mostrar _resumo_ do pedido com todos os itens e o total.
-- [ ] Enviar para a cozinha (isso deve salvar o pedido).
+- [x] Digitar o nome do cliente e mesa.
+- [x] Filtrar _menu_ para _café da manhã_ e _almoço/jantar_.
+- [x] Adicionar item ao pedido.
+- [x] Excluir item do pedido.
+- [x] Mostrar _resumo_ do pedido com todos os itens e o total.
+- [x] Enviar para a cozinha (isso deve salvar o pedido).
 
 ![Alt Text](historia 2.gif)
 
@@ -101,9 +101,9 @@ Eu como chefe de cozinha quero ver os pedidos dos clientes em ordem, poder marca
 
 **Ver pedidos na cozinha*
 
-- [ ] Visualizar pedidos pendentes para produção.
-- [ ] Marcar pedido como pronto para entrega.
-- [ ] Ver histórico dos pedidos.
+- [x] Visualizar pedidos pendentes para produção.
+- [x] Marcar pedido como pronto para entrega.
+- [x] Ver histórico dos pedidos.
 
 ![](historia 3.gif)
 
@@ -113,8 +113,8 @@ Eu como garçom/garçonete quero ver os pedidos que estão prontos para entregá
 
 **Entrega de pedidos*
 
-- [ ] Visualizar pedidos pendentes para entrega.
-- [ ] Marcar pedido como entregue ao cliente.
+- [x] Visualizar pedidos pendentes para entrega.
+- [x] Marcar pedido como entregue ao cliente.
 
 ![](historia 4.gif)
 
