@@ -31,13 +31,13 @@ trabalhar.
 
 ## Área do garçom
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/garcomhall.gif" >
 </p>
 
 ## Área da cozinha
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/carolineshimada/SAP005-burger-queen/blob/main/kitchen.gif" >
 </p>
 
