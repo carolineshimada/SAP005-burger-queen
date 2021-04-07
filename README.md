@@ -11,7 +11,7 @@
 
 ---
 
-## 1. Resumo do projeto
+### 1. Resumo do projeto
 
 Um pequeno restaurante de hambúrgueres chamado Ratatouille Burger está crescendo, 
 e necessitava de uma interface em que se possa realizar pedidos utilizando um _tablet_,e enviá-los para a cozinha para que sejam preparados de forma ordenada e eficiente.
